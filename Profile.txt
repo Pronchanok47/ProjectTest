@@ -1,3 +1,4 @@
 name : Pronchanok Chaibut
 nickname : Donut
 age : 20
+BD : 29 Aug 2004
